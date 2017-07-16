@@ -4,3 +4,17 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
+
+# Company
+Avrosoft is an incorporated software company specialied in software package and development in architectural industry.
+
+# Products
+* BIM Archtecture software
+* VR Solutions
+
+# Services
+* Request Demo
+
+# Contacts
+Palo Alto, CA, USA
+info@avrosoft.com
