@@ -17,4 +17,12 @@ Avrosoft is an incorporated software company specialied in software package and 
 
 # Contacts
 Palo Alto, CA, USA
+
 info@avrosoft.com
+
+[twitter](https://twitter.com/avrosoft7)
+[facebook](https://www.facebook.com/Avrosoft-1600718006614222/)
+[youtube](https://www.youtube.com/channel/UCX8qh8d3z8HwYsvA-v328Ig)
+[github](https://github.com/avrosoft)
+[instagram](https://www.instagram.com/avrosoft)
+[pinterest](https://www.pinterest.com/avrosoft/)
