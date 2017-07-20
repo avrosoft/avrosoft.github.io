@@ -1,9 +1,11 @@
 <!DOCTYPE html>
 <html>
-<title>Avrosoft</title>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="{{ root_url }}/assets/style.css">
+<head>
+  <title>{{ site.title }}</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="{{}}/assets/style2.css">
+</head>
 <body>
 
 <!-- Navbar (sit on top) -->
@@ -11,7 +13,7 @@
 
 <!-- Header -->
 <header class="w3-display-container w3-content w3-wide" style="max-width:1500px;" id="home">
-  <img class="w3-image" src="{{ root_url }}/assets/architect.jpg" alt="Architecture" width="1500" height="800">
+  <img class="w3-image" src="/assets/architect.jpg" alt="Architecture" width="1500" height="800">
   <div class="w3-display-middle w3-margin-top w3-center">
     <h1 class="w3-xxlarge w3-text-white"><span class="w3-padding w3-black w3-opacity-min"><b>avro</b></span> <span class="w3-hide-small w3-text-light-grey">soft</span></h1>
   </div>
@@ -20,14 +22,13 @@
 <!-- Page content -->
 <div class="w3-content w3-padding" style="max-width:1564px">
 
-{{ content }}  
+{{ content }}
 
 <!-- End page content -->
 </div>
 
 <!-- Footer -->
 {% include footer.html %}
-
 
 </body>
 </html>
